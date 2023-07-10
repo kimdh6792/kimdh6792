@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/celery-37814A?style=flat-square&logo=Celery&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
-  <img src="https://img.shields.io/badge/aws-FF6600?style=flat-square&logo=Aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/amazonaws-FF6600?style=flat-square&logo=amazonaws&logoColor=white"/>
 </span>
 
 

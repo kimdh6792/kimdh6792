@@ -12,4 +12,4 @@
 </span>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdh6792&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdh6792&show_icons=true&theme=dark)

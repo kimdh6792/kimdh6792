@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/celery-37814A?style=flat-square&logo=Celery"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=Mysql"/>
   <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=flat-square&logo=RabbitMQ"/>
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=AmazonAWS"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GithubActions"/>
 </span>
 
 

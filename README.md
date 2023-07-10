@@ -2,10 +2,13 @@
 
 ### skills 
 <span>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=Django"/>
-<img src="https://img.shields.io/badge/celery-37814A?style=flat-square&logo=Celery"/>
-<img src="https://img.shields.io/badge/celery-37814A?style=flat-square&logo=Celery"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=Django"/>
+  <img src="https://img.shields.io/badge/celery-37814A?style=flat-square&logo=Celery"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=Mysql"/>
+  <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=flat-square&logo=RabbitMQ"/>
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=Amazon AWS"/>
+  <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions"/>
 </span>
 
 

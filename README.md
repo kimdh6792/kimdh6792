@@ -12,8 +12,9 @@
 <!-- 메인 스탯 + 언어 -->
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kimdh6792&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdh6792&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Followers](https://img.shields.io/github/followers/kimdh6792?style=for-the-badge&color=7AA2F7&labelColor=1a1b27&logo=github)
+![Stars](https://img.shields.io/github/stars/kimdh6792?style=for-the-badge&color=BB9AF7&labelColor=1a1b27&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=kimdh6792&style=for-the-badge&color=7DCFFF&labelColor=1a1b27)
 
 </div>
 
@@ -35,5 +36,18 @@
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kimdh6792&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+
+<!-- ===== 기술 스택 ===== -->
+<div align="center">
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1b27)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1b27)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1b27)
 
 </div>

@@ -1,7 +1,7 @@
 <!-- 타이핑 헤더 -->
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+kimdh6792+%F0%9F%91%8B;Welcome+to+my+GitHub+profile;Always+learning%2C+always+building)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dohyung+%F0%9F%91%8B;Welcome+to+my+GitHub+profile;Always+learning%2C+always+building)
 
 </div>
 

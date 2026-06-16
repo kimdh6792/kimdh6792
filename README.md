@@ -25,7 +25,7 @@
 
 <!-- 트로피 -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kimdh6792&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophy" />
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=kimdh6792&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophy" />
 </div>
 
 <!-- 활동 그래프 -->
